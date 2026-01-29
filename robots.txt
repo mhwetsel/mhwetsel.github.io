@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mhwetsel.github.io/sitemap.xml
