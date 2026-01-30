@@ -1,12 +1,12 @@
 ---
-layout: about
-title: about
+layout: Home
+title: Home
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: MHWII_profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
         <p>502 Lebanon Rd.</p>
