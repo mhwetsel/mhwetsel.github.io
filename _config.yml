@@ -26,7 +26,8 @@ author:
   avatar           : "MHWII_profile_pic.jpg"
   name             : "Matthew Hansen Wetsel II"
   pronouns         : # example: "he/him/his"  
-  bio              : "Higher Education & Data Science Professional"
+  bio              : "Higher Education &" 
+                     "Data Science Professional"
   location         : "Clemson, SC"
   employer         : "Clemson University"
   uri              : # https://www.clemson.edu
