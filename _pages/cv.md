@@ -12,7 +12,7 @@ redirect_from:
 <br>
 
 Education
-======
+============
 **M.A. Politics - New York University (2022)**\
   GPA: 3.92 / 4.00 
   
@@ -24,7 +24,7 @@ Education
 <br>
 
 Professional Experience
-======
+============
  **Quality Assurance Coordinator - Clemson University**  
  May 2024 - Present  
 * Conduct and manage quality assurance reviews of Clemson University courses.
