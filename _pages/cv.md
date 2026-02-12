@@ -15,7 +15,9 @@ Education
 ======
 **M.A. Politics - New York University (2022)**\
   GPA: 3.92 / 4.00 
+  
 <br>
+
 **B.S. Political Science - Clemson University (2019)**\
   GPA: 3.96 / 4.00
 
