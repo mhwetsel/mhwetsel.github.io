@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<br>
+
 Education
 ======
 * M.A. Politics - New York University (2022)\
@@ -17,6 +19,7 @@ Education
 * B.S. Political Science - Clemson University (2019)\
   GPA: 3.96 / 4.00
 
+<br>
 
 Professional Experience
 ======
