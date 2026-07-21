@@ -17,6 +17,7 @@ Education
   GPA: 3.92 / 4.00 
 
 Thesis: A Decline in Unemployment Benefit Generosity: Globalization, Neoliberalism, and European Welfare State Retrenchment 
+
 Committee Members: Dr. Bernard Prosper (Chair), Professor Nicole Simonelli (MA Program Director)
 
 <br>
@@ -25,6 +26,7 @@ Committee Members: Dr. Bernard Prosper (Chair), Professor Nicole Simonelli (MA P
   GPA: 3.96 / 4.00
 
 Thesis: A Comparative Study of Eurosceptic Electoral Party Success 
+
 Committee Members: Dr. Amber Curtis (Chair), Dr. Jeff Fine (Senior Associate Dean)
 
 <br>
