@@ -24,6 +24,7 @@ Committee Members: Dr. Bernard Prosper (Chair), Professor Nicole Simonelli (MA P
 
 Thesis: A Comparative Study of Eurosceptic Electoral Party Success 
 Committee Members: Dr. Amber Curtis (Chair), Dr. Jeff Fine (Senior Associate Dean)
+
 <br>
 
 Professional Experience
