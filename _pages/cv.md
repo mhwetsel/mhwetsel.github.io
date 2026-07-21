@@ -18,7 +18,7 @@ Education
 
 Master’s Thesis: A Decline in Unemployment Benefit Generosity: Globalization, Neoliberalism, and European Welfare State Retrenchment 
 Committee Members: Dr. Bernard Prosper (Chair), Professor Nicole Simonelli (MA Program Director)
-
+<&nbsp>
 **B.S. Political Science - Clemson University (2019)**\
   GPA: 3.96 / 4.00
 
