@@ -33,80 +33,84 @@ Committee Members: Dr. Amber Curtis (Chair), Dr. Jeff Fine (Senior Associate Dea
 
 Professional Experience
 ============
- **Quality Assurance Coordinator - Clemson University**  
+ **Quality Assurance & Curriculum Coordinator - Clemson University**  
  May 2024 - Present  
-* Conduct and manage quality assurance reviews of Clemson University courses.
-* Provide administrative and technical support to the Clemson Online team and Clemson faculty.
-* Develop and implement strategies for improving the qualty assurance process at Clemson University.
-* Develop and implement strategies for improving community engagement with quality assurance processes.
-* Coordinate communications between Clemson Online, Clemson faculty, and Quality Matters.
+* Manage quality assurance reviews of Clemson University courses.
+* Prepare reports for Clemson Online leadership and curriculum committees.
+* Provide administrative and technical support to staff and faculty.
+* Develop and implement continuous qualty improvement plans for internal processes.
+* Coordinate public relations communications and lead recruitment efforts.
+* Develop Canvas LMS courses.
+* Organize and lead online development workshops.
 
 <br>
 
 **Data Analyst - Albert Einstein College of Medicine**  
 Oct 2022 - May 2024
-* Maintain complete and accurate databases of course and instructor evaluations from over 600 medical students.
 * Design surveys for data collection.
-* Conduct ETL of learner, instructor, and program evaluation data.
-* Develop and implement secure data storage and warehousing solutions.
-* Interpret, summarize, and report findings to senior leadership and curriculum improvement subcommittees.
-* Ensure compliance with USMLE accreditation standards with working knowledge of College of Medicine policies and procedures.
-* Serve as the principal liaison between students, instructors, and senior administration.
+* Manage ETL data process.
+* Conduct qualitative and quantitative analyses.
+* Manage data storage.
+* Prepare and deliver reports to senior leadership and curriculum committees.
+* Provide admistrative and technical support to faculty and staff.
+* Ensure compliance with USMLE and AAMC accreditation standards.
 
 <br>
 
 **Substitute Teacher - NYC Department of Education**  
 Jan 2022 - Oct 2022
-  * Develop and implement original lesson plans (K-12 and special needs) that accommodate various learning styles.
-  * Provide group and one on one instruction through effective classroom management.
-  * Ensure student safety by adhering to school-specific and departmental regulations.
+  * Develop and implement lesson plans.
+  * Lead classroom and one-on-one instruction.
+  * Provide formative and summative feedback. 
   * Improve the interpersonal and critical reasoning skills of students.
   * Foster a creative and collaborative learning environment.
-  * Conduct administrative record-keeping.
+  * Manage administrative record-keeping.
 
 <br>
 
-**Course Grader - New York University**  
+**Teaching Assistant - New York University**  
 Sept 2020 - Jun 2021
-  * Facilitate student engagement and communication during remote instruction; doubled student participation.
-  * Grading undergraduate assignments and providing feedback.
-  * Advise students, via Zoom, on their progress in the course.
-  * Provide planned and ad hoc subject matter instruction
+  * Support the course instructor.
+  * Facilitate student engagement.
+  * Provide formative and summative feedback. 
+  * Grade assessments.
+  * Advise students.
   
 <br>
 
- **Athletic Academic Services Tutor - Clemson University**  
+ **Academic Tutor - Clemson University**  
  Sept 2019 - Aug 2020
-  * Design and implement individualized academic success plans for student-athletes.
-  * Advise on effective learning strategies, in addition to study and research skills.
-  * Monitor completion progress to ensure compliance with Academic Integrity Policies.
-  * Evaluate skills acquisition, academic performance, and study habits.
-  * Provide one-on-one content instruction in academic areas of expertise.
-  * Maintain progress reports for administrative use by academic advisors and learning specialists.
-  * Achieved a student success rate of over 80% (earning an ‘A’ in their class).
-
+  * Develop and implement lesson plans.
+  * Lead one-on-one and group instruction.
+  * Provide formative and summative feedback.
+  * Manage administrative record-keeping.
+  * Improve the interpersonal and critical reasoning skills of students.
+  * Foster a creative and collaborative learning environment.
+  * Advise Students.
+  
+<br>
 
 **Research Assistant - Clemson University**  
 Nov 2017 - Aug 2019
-  * Conduct archival database searches for primary source material (1816-1940).
+  * Conduct archival database searches of primary source material (1816-1940).
   * Code instances of militarized interstate disputes (MIDs).
   * Construct datasets for statistical analyses.
   * Analyze trends and patterns consistent with political science literature.
-  * Contribute to the broader Correlates of War (COW).
+  * Contribute to the broader Correlates of War (COW) Project.
 
 <br>
   
 **Resource Librarian Assistant - Clemson University**  
 Jun 2017 - Aug 2019
-  * Conduct data entry with Microsoft Excel.
-  * Communicate and coordinate long-term strategies for expanding/contracting the Federal Documents Catalog.
-  * Ensure timely distribution/collection of materials to and from their respective departments.
+  * Conduct data entry.
+  * Assist with managing the Federal Documents Catalog.
+  * Ensure the timely distribution and collection of materials.
 
 <br>
 
 **Web Editor - The Pendulum**  
 Sept 2018 - May 2019
-  * Advise and instruct contributors on style, grammar, and argument formation.
+  * Advise students on style, grammar, and argument formation.
   * Edit and proof articles for publication.
   * Adhere to journalistic best practices.
 
