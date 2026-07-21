@@ -22,6 +22,7 @@ Committee Members: Dr. Bernard Prosper (Chair), Professor Nicole Simonelli (MA P
 
 
 
+
 **B.S. Political Science - Clemson University (2019)**\
   GPA: 3.96 / 4.00
 
