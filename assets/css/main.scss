@@ -39,5 +39,13 @@
 
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
-;
+    "vendor/font-awesome/brands";
+
+   
+   /* Make the LinkedIn icon grayscale and dark-mode compatible */
+.author__urls.social-icons .fa-linkedin,
+.author__urls.social-icons .fa-linkedin-in {
+  color: var(--global-text-color);
+}
+   
+   
