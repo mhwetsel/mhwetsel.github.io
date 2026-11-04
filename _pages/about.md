@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Quality Assurance and Curriculum Coordinator at Clemson University with a background in political science and economics. My research focuses on comparative European politics and political economy to better understand the causal mechanisms of political behavior and institutional change. I am a member of the [American Political Science Association](https://apsanet.org/) (APSA) and the [International Political Science Association](https://www.ipsa.org/) (IPSA).    
+I am a freelance, social science researcher specializing in data analysis and visualization; previous academic appointments include Clemson University, the Albert Einstein College of Medicine, and New York University. My research focuses on comparative European politics and political economy to better understand the causal mechanisms of political behavior and institutional change. I am a member of the [American Political Science Association](https://apsanet.org/) (APSA) and the [International Political Science Association](https://www.ipsa.org/) (IPSA).    
 
 Updates
 ======
