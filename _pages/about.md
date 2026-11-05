@@ -35,7 +35,16 @@ Updates
   margin: 0 0 8px;
   line-height: 1.1;
 }
-@media (max-width: 600px) {
+/* More space above the Updates heading */
+#updates {
+  padding-top: 18px;
+}
+
+/* More space between the two descriptive paragraphs */
+.home-update p:nth-of-type(2) {
+  margin-bottom: 26px;
+}
+  @media (max-width: 600px) {
   .home-update img {
     float: none;
     display: block;
