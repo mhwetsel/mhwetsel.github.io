@@ -70,6 +70,6 @@ Updates
 
   <p>
     PowerPoint slides and notes for my 
-    "Euroscepticism Revisited" presentation are available under the Talks tab.
+    "Euroscepticism Revisited" presentation are available under the <a href="/talks/">Talks</a> tab.
   </p>
 </div>
