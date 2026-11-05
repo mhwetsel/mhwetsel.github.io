@@ -26,7 +26,15 @@ Updates
   border: 1px solid #aaa;
   border-radius: 8px;
 }
+.home-update p {
+  margin: 0 0 10px;
+  line-height: 1.35;
+}
 
+.home-update p:first-of-type {
+  margin: 0 0 8px;
+  line-height: 1.1;
+}
 @media (max-width: 600px) {
   .home-update img {
     float: none;
