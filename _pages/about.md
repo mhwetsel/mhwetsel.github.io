@@ -64,12 +64,12 @@ Updates
 
   <p>
   Congrats to all of the presenters at the 2026 IPSA Regional Conference! 
-  Also, a special thank you to the faculty and volunteers at the University of Wrocław for being incredible hosts. : )
+  Also, a special thank you to the faculty and volunteers at the University of Wrocław for being incredible hosts : )
     
   </p>
 
   <p>
     PowerPoint slides and notes for my 
-    "Euroscepticism Revisited" presentation are available under the Portfolio tab.
+    "Euroscepticism Revisited" presentation are available under the Talks tab.
   </p>
 </div>
