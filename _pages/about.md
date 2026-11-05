@@ -52,8 +52,8 @@ Updates
   </p>
 
   <p>
-    Add any further details here. Longer text will wrap
-    alongside the photograph and continue beneath it.
+    PowerPoint slides and notes for my 
+    "Euroscepticism Revisited" presentation are available under the Portfolio tab.
   </p>
 </div>
 
