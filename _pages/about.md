@@ -11,7 +11,50 @@ I am a freelance, social science researcher specializing in data analysis and vi
 
 Updates
 ======
-<img width="2895" height="3861" alt="IMG_8003" src="https://github.com/user-attachments/assets/26bb0e05-6f9a-47c9-9026-6e318a903c22" />
+<style>
+.home-update {
+  display: flow-root;
+}
+
+.home-update img {
+  float: left;
+  width: 300px;
+  height: 220px;
+  object-fit: cover;
+  object-position: 50% 25%;
+  margin: 0 22px 14px 0;
+  border: 1px solid #aaa;
+  border-radius: 8px;
+}
+
+@media (max-width: 600px) {
+  .home-update img {
+    float: none;
+    display: block;
+    width: 100%;
+    margin: 0 0 16px;
+  }
+}
+</style>
+
+<div class="home-update">
+  <img
+    src="https://github.com/user-attachments/assets/26bb0e05-6f9a-47c9-9026-6e318a903c22"
+    alt="City skyline and historic buildings"
+  >
+
+  <p><strong>Your update title</strong></p>
+
+  <p>
+    Write your descriptive text here. Describe the location,
+    event, or research update associated with the photograph.
+  </p>
+
+  <p>
+    Add any further details here. Longer text will wrap
+    alongside the photograph and continue beneath it.
+  </p>
+</div>
 
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
