@@ -43,11 +43,12 @@ Updates
     alt="City skyline and historic buildings"
   >
 
-  <p><strong>Your update title</strong></p>
+  <p><strong>Na zdrowie Wrocław!</strong></p>
 
   <p>
-    Write your descriptive text here. Describe the location,
-    event, or research update associated with the photograph.
+  Congrats to all of the presenters at the 2026 IPSA Regional Conference! 
+  Also, a special thank you to the faculty and volunteers at the University of Wrocław for being incredible hosts :)
+    
   </p>
 
   <p>
