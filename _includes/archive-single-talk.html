@@ -36,14 +36,23 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+   {% if post.venue %}
+  <p class="archive__item-excerpt" style="margin:0; padding-bottom:20px;">
+    {{ post.type }}, {{ post.venue }}, {{ post.location }}
+  </p>
+{% endif %}
+
+{% if post.excerpt %}
+  <p style="margin:0; padding-bottom:20px;">
+    {{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}
+  </p>
+{% endif %}
     {% if post.slides_pdf %}
   <object
     data="{{ post.slides_pdf | relative_url }}"
     type="application/pdf"
     aria-label="IPSA 2026 Presentation"
-    style="display:block; width:100%; height:560px; margin-top:1rem;">
+    style="display:block; width:100%; height:560px; margin:0;">
     <p>
       <a href="{{ post.slides_pdf | relative_url }}">
         Open the presentation PDF
