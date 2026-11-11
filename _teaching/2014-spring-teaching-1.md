@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Academic Tutor"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Clemson University, Athletic Department"
+date: August 2019 &ndash; September 2020
 location: "City, Country"
 ---
 
