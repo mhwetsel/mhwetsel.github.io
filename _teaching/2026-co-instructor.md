@@ -5,7 +5,7 @@ type: "Undergraduate"
 permalink: /teaching/2026-spring-teaching-6
 venue: "Clemson University, Watt Family Innovation Center"
 date: 2026-01-01
-date_range: "October 2025"
+date_range: "January 2026 – May 2026"
 location: "Clemson, SC"
 ---
 
