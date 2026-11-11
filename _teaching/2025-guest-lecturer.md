@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2025-fall-teaching-5
 venue: "University of Alabama Birmingham, Department of Political Science and Public Administration"
-date: 2025-31-10
+date: 2025-10-31
 date_range: "October 2025"
 location: "Birmingham, AL"
 ---
