@@ -118,13 +118,25 @@ Sept 2018 - May 2019
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Data Science
+* Data Visualization
+* Research Design
+* Statistical Analysis
+  * Python
+  * R
+  * Stata
+* Microsoft Office
+* Google Suite
+* Adobe Acrobat
+* Artificial Intelligence
+  * ChatGPT
+  * Claude
+  * Copilot
+* VS Code
+* Project Management
+* Academic Advising
+* Public Speaking
+* Copy Editing
 <br>
 
 Publications
