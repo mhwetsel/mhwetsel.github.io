@@ -7,15 +7,15 @@ venue: "New York University, Wilf Family Department of Politics"
 date: 2020-09-01
 date_range: "September 2020 – June 2021"
 location: "New York, NY"
+excerpt_separator: "<!--more-->"
 ---
+## POL-UA 330: The American Constitution
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Learning Objectives
+* Perform Textual Analysis of Supreme Court Cases
+* Explain Contrasting Views of Legal Issues and Assess Arguments
+* Explain the Role of These Views in the Arguments of Supreme Court Justices
+* Write Concise, Technically Specific Analyses of Legal Arguments
+* Develop Novel Theories of Constitutional Interpretation, re. Judicial Review
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+<!--more-->
