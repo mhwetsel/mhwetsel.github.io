@@ -34,7 +34,7 @@ Committee Members: Dr. Amber Curtis (Chair), Dr. Jeff Fine (Senior Associate Dea
 Professional Experience
 ============
  **Quality Assurance & Curriculum Coordinator - Clemson University**  
- May 2024 - Present  
+ May 2024 - September 2026  
 * Manage quality assurance reviews of Clemson University courses.
 * Prepare reports for Clemson Online leadership and curriculum committees.
 * Provide administrative and technical support to staff and faculty.
