@@ -7,15 +7,13 @@ venue: "University of Alabama Birmingham, Department of Political Science and Pu
 date: 2025-10-31
 date_range: "October 2025"
 location: "Birmingham, AL"
+excerpt_separator: "<!--more-->"
 ---
+## PSC 102 - Foundations of Comparative Politics
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Learning Objectives
+* Define Political Parties
+* Analyze the Function(s) of Political Parties
+* Evaluate How and to What Extent Political Parties Promote Democracy and Stability
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+<!--more-->
