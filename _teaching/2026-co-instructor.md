@@ -15,3 +15,5 @@ Learning Objectives
 * Use AI to Develop Educational Technology
   * Apply Emotional Design Principles
   * Define Ethical Use of AI in Software Development
+
+<!--more-->
