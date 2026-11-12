@@ -137,6 +137,7 @@ Skills
 * Academic Advising
 * Public Speaking
 * Copy Editing
+
 <br>
 
 Publications
