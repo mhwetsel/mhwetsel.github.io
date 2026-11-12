@@ -9,10 +9,14 @@ date_range: "January 2026 – May 2026"
 location: "Clemson, SC"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+INNO 2990 - Vibe Coding with Agentic AI
 ======
+Learning Objectives
+* Use AI to Develop Educational Technology
+  * Apply Emotional Design Principles
+  * Define Ethical Use of AI in Software Development
+* Collaborate with CI Participants
+
 
 Heading 2
 ======
