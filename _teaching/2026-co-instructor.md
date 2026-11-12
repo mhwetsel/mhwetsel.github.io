@@ -9,7 +9,7 @@ date_range: "January 2026 – May 2026"
 location: "Clemson, SC"
 ---
 
-##INNO 2990 - Vibe Coding with Agentic AI
+## INNO 2990 - Vibe Coding with Agentic AI
 
 Learning Objectives
 * Use AI to Develop Educational Technology
