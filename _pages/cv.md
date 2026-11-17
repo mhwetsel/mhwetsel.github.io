@@ -79,6 +79,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+<br>
+
 Professional Experience
 ============
  **Quality Assurance & Curriculum Coordinator - Clemson University**  
