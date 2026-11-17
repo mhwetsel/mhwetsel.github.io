@@ -75,10 +75,21 @@
     </strong>
   </div>
 {% endif %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+   {% if post.abstract %}
+  <div class="archive__item-excerpt" itemprop="description">
+    <h3 style="font-size:1em; margin:0 0 0.75em;">Abstract</h3>
+    {{ post.abstract | markdownify }}
+  </div>
+{% elsif post.excerpt %}
+  <div class="archive__item-excerpt" itemprop="description">
+    {{ post.excerpt | markdownify }}
+    {% if site.read_more == 'enabled' %}
+      <strong>
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a>
+      </strong>
     {% endif %}
+  </div>
+{% endif %}
     
     {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
