@@ -9,6 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+<object
+  data="{{ '/files/mhwii%20cv.pdf' | relative_url }}"
+  type="application/pdf"
+  aria-label="Matthew Hansen Wetsel II — Curriculum Vitae"
+  style="display:block; width:100%; height:560px; margin:0;">
+  <p>
+    <a href="{{ '/files/mhwii%20cv.pdf' | relative_url }}">
+      Open the CV PDF
+    </a>
+  </p>
+</object>
+
+<p style="margin-top:0; padding-top:20px;">
+  <a href="{{ '/files/mhwii%20cv.pdf' | relative_url }}" download>
+    Download
+  </a>
+  (PDF)
+  &emsp;
+  <a href="{{ '/files/mhwii%20cv.pdf' | relative_url }}"
+     target="_blank"
+     rel="noopener">
+    Open PDF
+  </a>
+</p>
+
 <br>
 
 Education
