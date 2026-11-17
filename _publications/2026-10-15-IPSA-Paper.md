@@ -2,7 +2,7 @@
 title: "Euroscepticism Revisited: How Uncertainty, Social Cohesion, and Insecurity Shape Public Opinion"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: "N/A"
 abstract: |
   Why are some Eurosceptic parties more successful than others? I posed this question over ten years ago, when the fallout from the Eurozone debt crisis was increasing polarization between core and peripheral member
   states, and the post-Arab Spring migrant crisis was challenging many commonly held beliefs that underlie the European project. Specifically, the value of Europe as an “open” society that allows for the free movement of
@@ -19,7 +19,7 @@ abstract: |
 
 date: 2026-10-15
 venue: 'IPSA Regional Conference'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: "N/A"
 citation: 'Wetsel II, Matthew Hansen. (2026). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
