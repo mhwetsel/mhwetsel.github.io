@@ -34,7 +34,6 @@ redirect_from:
   </a>
 </p>
 
-<br>
 
 Education
 ============
@@ -45,7 +44,7 @@ Thesis: A Decline in Unemployment Benefit Generosity: Globalization, Neoliberali
 
 Committee Members: Dr. Bernard Prosper (Chair), Professor Nicole Simonelli (MA Program Director)
 
-<br>
+<&nbsp>
 
 **B.S. Political Science - Clemson University (2019)**\
   GPA: 3.96 / 4.00
