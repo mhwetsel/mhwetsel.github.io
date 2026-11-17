@@ -193,5 +193,6 @@ Skills
 Service and leadership
 ======
 * APSA Member and Reviewer
+* CES  Member and Reviewer
 * IPSA Member and Reviewer
 * MPSA Member and Reviewer
