@@ -20,7 +20,7 @@ abstract: |
 date: 2026-10-15
 venue: 'IPSA Regional Conference'
 paperurl: "N/A"
-citation: 'Wetsel II, Matthew Hansen. (2026). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'Wetsel II, Matthew Hansen. 2026. “Euroscepticism Revisited: How Uncertainty, Social Cohesion, and Insecurity Shape Public Opinion.” Paper presented at the 2026 IPSA Regional Conference, Wrocław, Poland, October 15.'
 ---
 
 Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
