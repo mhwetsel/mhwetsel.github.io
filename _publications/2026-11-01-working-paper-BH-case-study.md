@@ -5,6 +5,7 @@ category: working_papers
 permalink: "N/A"
 abstract: 'TBD'
 date: 2026-11-01
+venue: "N/A"
 paperurl: "N/A"
 citation: 'Wetsel II, Matthew Hansen. (2026). &quot;Gendered Genocide: A Case Study of Bosnia-Herzegovina&quot;'
 ---
