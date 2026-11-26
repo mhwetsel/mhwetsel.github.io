@@ -1,1 +1,80 @@
+---
+layout: single
+title: "Tutoring"
+permalink: /tutoring/
+author_profile: true
+booking_embed_url: ""
+booking_page_url: ""
+---
+
+<style>
+  .tutoring-page { line-height: 1.6; }
+  .tutoring-page .tutoring-intro {
+    padding: 1.25rem;
+    border: 1px solid #8b969e;
+    border-left: 4px solid #2b8297;
+    border-radius: 6px;
+    margin-bottom: 1.5rem;
+  }
+  .tutoring-page .tutoring-intro p:last-child { margin-bottom: 0; }
+  .tutoring-page .tutoring-steps { padding-left: 1.4rem; }
+  .tutoring-page .tutoring-steps li { margin-bottom: 0.4rem; }
+  .tutoring-page .tutoring-frame {
+    display: block;
+    width: 100%;
+    height: 900px;
+    border: 0;
+    background: #fff;
+    border-radius: 6px;
+  }
+  .tutoring-page .tutoring-fallback { margin: 1rem 0; }
+  .tutoring-page .tutoring-note { font-size: 0.9em; }
+  @media (max-width: 600px) {
+    .tutoring-page .tutoring-intro { padding: 1rem; }
+    .tutoring-page .tutoring-frame { height: 1050px; }
+  }
+</style>
+
+<div class="tutoring-page">
+  <div class="tutoring-intro">
+    <p><strong>Book a one-to-one tutoring session.</strong></p>
+    <p>Choose an available appointment below and tell me which course,
+      topic, or assignment you would like to discuss.</p>
+  </div>
+
+  <h2>How to book</h2>
+  <ol class="tutoring-steps">
+    <li>Check the time zone shown in the scheduler.</li>
+    <li>Select an available date and time.</li>
+    <li>Enter your contact information and session goals, then confirm.</li>
+  </ol>
+
+  <h2 id="tutoring-schedule">Schedule a session</h2>
+  <p>Session length and meeting details appear in the booking calendar.</p>
+
+  {% assign booking_embed = page.booking_embed_url | default: "src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3LKVnIijCFr2QYaF6q2GNC4LKtIT-bJLSqRDISogu3-yo37vFgqjB56YbmSA1x_upqq2oDLJEm?gv=true"" | strip %}
+  {% assign booking_link = page.booking_page_url | default: "src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3LKVnIijCFr2QYaF6q2GNC4LKtIT-bJLSqRDISogu3-yo37vFgqjB56YbmSA1x_upqq2oDLJEm?gv=true"" | strip %}
+
+  {% if booking_embed != "" %}
+    <iframe
+      class="tutoring-frame"
+      src="{{ booking_embed | escape }}"
+      title="Available tutoring appointments and booking form">
+    </iframe>
+  {% else %}
+    <p>Online scheduling will be available soon. Please check back.</p>
+  {% endif %}
+
+  {% if booking_link != "" %}
+    <p class="tutoring-fallback">
+      <a href="{{ booking_link | escape }}" target="_blank" rel="noopener">
+        Open the booking calendar in a new tab
+      </a>
+    </p>
+  {% endif %}
+
+  <p class="tutoring-note">Scheduling and booking details are handled
+    through Google Calendar. Please provide only the information needed
+    to arrange and prepare for your session.</p>
+</div>
 
