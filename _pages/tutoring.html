@@ -3,8 +3,8 @@ layout: single
 title: "Tutoring"
 permalink: /tutoring/
 author_profile: true
-booking_embed_url: ""
-booking_page_url: ""
+booking_embed_url: "src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3LKVnIijCFr2QYaF6q2GNC4LKtIT-bJLSqRDISogu3-yo37vFgqjB56YbmSA1x_upqq2oDLJEm?gv=true""
+booking_page_url: "src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3LKVnIijCFr2QYaF6q2GNC4LKtIT-bJLSqRDISogu3-yo37vFgqjB56YbmSA1x_upqq2oDLJEm?gv=true""
 ---
 
 <style>
@@ -52,8 +52,8 @@ booking_page_url: ""
   <h2 id="tutoring-schedule">Schedule a session</h2>
   <p>Session length and meeting details appear in the booking calendar.</p>
 
-  {% assign booking_embed = page.booking_embed_url | default: "src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3LKVnIijCFr2QYaF6q2GNC4LKtIT-bJLSqRDISogu3-yo37vFgqjB56YbmSA1x_upqq2oDLJEm?gv=true"" | strip %}
-  {% assign booking_link = page.booking_page_url | default: "src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3LKVnIijCFr2QYaF6q2GNC4LKtIT-bJLSqRDISogu3-yo37vFgqjB56YbmSA1x_upqq2oDLJEm?gv=true"" | strip %}
+  {% assign booking_embed = page.booking_embed_url | default: "" | strip %}
+  {% assign booking_link = page.booking_page_url | default: "" | strip %}
 
   {% if booking_embed != "" %}
     <iframe
